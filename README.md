@@ -1,6 +1,6 @@
 <span style="font-size:2em; font-weight: bold;">gVim _vimrc Setup</span>
 
-Last modified: Dec. 26, 2023
+Last modified: Jan. 15, 2025
 
 # Vim command
  - Where is my $HOME?
