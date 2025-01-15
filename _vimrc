@@ -44,7 +44,9 @@ set shiftwidth=4
 set expandtab
 
 " Linux
-"set guifont=Inconsolata\ 12
+"set guifont=Inconsolata\ SemiBold\ 12
+"set guifont=Consolas\ SemiBold\ 12
+
 " Windows    
 set guifont=Consolas:h12:b:cANSI
 
