@@ -1,6 +1,6 @@
 <span style="font-size:2em; font-weight: bold;">gVim _vimrc Setup</span>
 
-Last modified: Jan. 15, 2025
+Last modified: June 10, 2025
 
 # Vim command
  - Where is my $HOME?
@@ -13,9 +13,13 @@ Last modified: Jan. 15, 2025
 
 # _vimrc
  - Copy _vimrc to user home directory. ($HOME)
+ - $HOME\_vimrc (Windows)
+ - $HOME/.vimrc (Linux)
 
 # Color Scheme
 - Copy codedark.vim to $HOME/vimfiles/colors
+- $HOME\vimfiles\colors\codedark.vim (Windows)
+- $HOME/.vim/colors/codedark.vim (Linux)
 
 <pre>
  Vim Code Dark (color scheme)
